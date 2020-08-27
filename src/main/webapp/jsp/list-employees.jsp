@@ -7,10 +7,10 @@
         <link rel="stylesheet" href="css/bootstrap.min.css" >   		
         <script src="js/jquery.min.js"></script>
         <script src="js/bootstrap.min.js" ></script>        
-	    <title>List Employees</title>
+	    <title>List of Employees</title>
     </head>
 
-    <body bgcolor="dracula">          
+    <body bgcolor="blue">          
 	    <h2>My Sample Application</h2>
         <div class="container">
             <h2>List of Employees</h2>
